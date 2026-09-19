@@ -1,19 +1,4 @@
-<!--
-  ================================================================
-  PERFIL DO GITHUB — minimalista (inspirado no clássico do codeSTACKr)
-  ================================================================
-
-  Pendências (procure por "Descomente" para ativar):
-    → badge do site
-    → ícones do Instagram
-    → preencher os textos entre [colchetes] na bio
-
-  O repositório precisa se chamar exatamente "leeovictor" para este
-  README aparecer no topo do perfil.
-  ================================================================
--->
-
-# Olá, eu sou o Leonardo Victor 👋
+# Olá, eu sou o Leo 👋
 
 [![X](https://img.shields.io/twitter/follow/leeovictor?color=1DA1F2&logo=x&style=for-the-badge)][x]
 
@@ -69,10 +54,6 @@ Desenvolvedor focado em **[sua área]**. Construo projetos e compartilho o que a
   <img height="165" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=leeovictor&show_icons=true&hide_border=true&bg_color=00000000">
   <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeovictor&layout=compact&hide_border=true&bg_color=00000000">
 </details>
-
----
-
-<p align="center"><sub>Inspirado no clássico do <a href="https://github.com/codeSTACKr">codeSTACKr</a> · feito com ☕</sub></p>
 
 [x]: https://x.com/leeovictor
 [site]: https://seusite.com
