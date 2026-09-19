@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/hero-v2.svg" width="100%" alt="Leo, Software Engineer — peças de Tetris caindo com HTML, CSS, TypeScript, React, Node.js e Game Dev">
+  <img src="./img/hero-v3.svg" width="100%" alt="Leo, Software Engineer — peças de Tetris caindo com HTML, CSS, TypeScript, React, Node.js e Game Dev">
 </p>
 
 [![X](https://img.shields.io/twitter/follow/leeo__victor?color=1DA1F2&logo=x&style=for-the-badge)][x]
