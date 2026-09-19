@@ -1,27 +1,24 @@
 # Olá, eu sou o Leo 👋
 
-[![X](https://img.shields.io/twitter/follow/leeovictor?color=1DA1F2&logo=x&style=for-the-badge)][x]
+[![X](https://img.shields.io/twitter/follow/leeo__victor?color=1DA1F2&logo=x&style=for-the-badge)][x]
 
 <!-- Descomente quando tiver site:
 [![Site](https://img.shields.io/website?label=seusite.com&style=for-the-badge&url=https%3A%2F%2Fseusite.com)][site]
 -->
 
-Desenvolvedor focado em **[sua área]**. Construo projetos e compartilho o que aprendo pelo caminho.
+Engenheiro de Software Sênior no [PagBank](https://pagbank.com.br). Construí minha carreira principalmente em **front-end e desenvolvimento web** — JavaScript, Node e React — e tenho um interesse especial por **desenvolvimento de jogos**.
 
-- 🔭 Construindo **[seu projeto atual]**
-- 🌱 Estudando **TypeScript, arquitetura e boas práticas**
-- ⚡ Curiosidade: **[algo sobre você]**
+- 🎮 Explorando desenvolvimento de jogos no tempo livre
+- 🌱 Sempre estudando ferramentas e boas práticas do ecossistema web
+- ⚡ Curiosidade: tentei uma carreira em odontologia antes de me encontrar na programação
 
 ### Conecte-se comigo
 
-[![X](./img/x-light.svg)](https://x.com/leeovictor#gh-light-mode-only)
-[![X](./img/x-dark.svg)](https://x.com/leeovictor#gh-dark-mode-only)
+[![X](./img/x-light.svg)](https://x.com/leeo__victor#gh-light-mode-only)
+[![X](./img/x-dark.svg)](https://x.com/leeo__victor#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/leeovictor#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/leeovictor#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![GitHub](./img/github-light.svg)](https://github.com/leeovictor#gh-light-mode-only)
-[![GitHub](./img/github-dark.svg)](https://github.com/leeovictor#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/leovictormarques/#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/leovictormarques/#gh-dark-mode-only)
 
 <!-- Descomente quando tiver Instagram:
 &nbsp;&nbsp;
@@ -44,16 +41,5 @@ Desenvolvedor focado em **[sua área]**. Construo projetos e compartilho o que a
   <img width="26" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </p>
 
----
-
-<details>
-  <summary>📊 Estatísticas do GitHub</summary>
-
-  <br />
-
-  <img height="165" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=leeovictor&show_icons=true&hide_border=true&bg_color=00000000">
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeovictor&layout=compact&hide_border=true&bg_color=00000000">
-</details>
-
-[x]: https://x.com/leeovictor
+[x]: https://x.com/leeo__victor
 [site]: https://seusite.com
