@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/banner.svg?v=2" width="100%" alt="Banner em pixel art — Leo, Software Engineer">
+  <img src="./img/banner-v2.svg" width="100%" alt="Banner em pixel art — Leo, Software Engineer">
 </p>
 
 # Olá, eu sou o Leo 👋
