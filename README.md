@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./img/banner-v2.svg" width="100%" alt="Banner em pixel art — Leo, Software Engineer">
-</p>
-
-<p align="center">
-  <img src="./img/tetris.svg" width="100%" alt="Tetris animado: peças caindo com o nome, cargo e habilidades de Leo">
+  <img src="./img/hero.svg" width="100%" alt="Leo, Software Engineer — peças de Tetris caindo com HTML, CSS, TypeScript, React, Node.js e Game Dev">
 </p>
 
 [![X](https://img.shields.io/twitter/follow/leeo__victor?color=1DA1F2&logo=x&style=for-the-badge)][x]
