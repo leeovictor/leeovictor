@@ -2,7 +2,9 @@
   <img src="./img/banner-v2.svg" width="100%" alt="Banner em pixel art — Leo, Software Engineer">
 </p>
 
-# Olá, eu sou o Leo 👋
+<p align="center">
+  <img src="./img/tetris.svg" width="100%" alt="Tetris animado: peças caindo com o nome, cargo e habilidades de Leo">
+</p>
 
 [![X](https://img.shields.io/twitter/follow/leeo__victor?color=1DA1F2&logo=x&style=for-the-badge)][x]
 
@@ -15,10 +17,6 @@ Engenheiro de Software Sênior no [PagBank](https://pagbank.com.br). Construí m
 - 🎮 Explorando desenvolvimento de jogos no tempo livre
 - 🌱 Sempre estudando ferramentas e boas práticas do ecossistema web
 - ⚡ Curiosidade: tentei uma carreira em odontologia antes de me encontrar na programação
-
-<p align="center">
-  <img src="./img/tetris.svg" width="100%" alt="Tetris animado: peças caindo com o nome, cargo e habilidades de Leo">
-</p>
 
 ### Conecte-se comigo
 
