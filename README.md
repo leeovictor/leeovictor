@@ -16,9 +16,6 @@ Engenheiro de Software Sênior no [PagBank](https://pagbank.com.br). Construí m
 
 ### Conecte-se comigo
 
-[![X](./img/x-light.svg)](https://x.com/leeo__victor#gh-light-mode-only)
-[![X](./img/x-dark.svg)](https://x.com/leeo__victor#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/leovictormarques/#gh-light-mode-only)
 [![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/leovictormarques/#gh-dark-mode-only)
 
