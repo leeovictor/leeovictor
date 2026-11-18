@@ -1,4 +1,3 @@
-[![X](https://img.shields.io/twitter/follow/leeo__victor?color=1DA1F2&logo=x&style=for-the-badge)][x]
 
 <!-- Descomente quando tiver site:
 [![Site](https://img.shields.io/website?label=seusite.com&style=for-the-badge&url=https%3A%2F%2Fseusite.com)][site]
