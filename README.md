@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./img/hero-v7.svg" width="100%" alt="Leo, Software Engineer — Tetris com HTML, CSS, TypeScript, React, Node.js e Game Dev, com efeitos de fliperama">
-</p>
-
 [![X](https://img.shields.io/twitter/follow/leeo__victor?color=1DA1F2&logo=x&style=for-the-badge)][x]
 
 <!-- Descomente quando tiver site:
